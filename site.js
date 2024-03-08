@@ -21,4 +21,3 @@ function showSlides() {
         console.log(count)
     setTimeout(showSlides,2000)
 }
-
